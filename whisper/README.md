@@ -1,6 +1,6 @@
 # Whisper.cpp to transcribe calls
 
-This project installs a `transcribe` script that uses whisper to quickly go from text to speech.
+This project installs a `transcribe` script that uses whisper to quickly go from speech to text.
 
 # Requirements
 
