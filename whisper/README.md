@@ -11,4 +11,4 @@ This has only been tested in MacOs
 
 # Usage
 
-If the path has been properly configured you can run `transcribe <path-to-audio> [<tag for filename>, optional]`.
+If the path has been properly configured you can run `transcribe <path-to-audio> <tag>`. The tag is optional. This will copy the transcript to your clipboard and leave the resulting transcript in `~/Desktop/<tag>-<date>.txt`.
